@@ -7,5 +7,5 @@ Name: Evan
 Institution: Penn State
 
 Recipie files for
- -salsa
- -ice cream
+-salsa
+-ice cream
