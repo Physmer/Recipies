@@ -6,6 +6,8 @@ Name: Evan
 
 Institution: Penn State
 
-Recipie files for
+Recipie files for:
+
 -salsa
+
 -ice cream
