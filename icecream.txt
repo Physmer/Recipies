@@ -1,10 +1,13 @@
-Indredients
-cream
-eggs
-vanilla
+Ingredients
+-cream
+-eggs
+-vanilla
 -coconut oil
 -chia seed
 -mint
+-chocolate
+-pineapple
+
 
 Method
 beat
