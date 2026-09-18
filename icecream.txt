@@ -1,7 +1,10 @@
-Indredients
+Ingredients
 cream
 eggs
 vanilla
+chocolate
+mint
+pineapple
 
 Method
 beat
