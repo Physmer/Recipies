@@ -2,6 +2,9 @@ Indredients
 cream
 eggs
 vanilla
+-coconut oil
+-chia seed
+-mint
 
 Method
 beat
